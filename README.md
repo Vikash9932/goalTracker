@@ -2,6 +2,12 @@
 
 Goal Tracker is an android/ios app built using react-native and its various components.
 
+## Features
+
+- Add New Goals
+- Cancel Adding New goals
+- Tap on Goal to delete it
+
 ## Authors
 
 - [@vikash9932](https://www.github.com/vikash9932)
@@ -13,3 +19,8 @@ Goal Tracker is an android/ios app built using react-native and its various comp
 ## Deployment
 
 To be implemented soon
+
+## Screenshots
+
+![Goals List Screenshot](/assets/images/goalsList.png)
+![Add Goal Screenshot](/assets/images/addGoal.png)
