@@ -24,7 +24,7 @@ To be implemented soon
 
 Home Screen / Goals List page
 
-![Goals List Screenshot](/assets/images/goalsList.png)
+![Goals List Screenshot](/assets/images/goalsList.png =250x400)
 
 Adding New Goal
 
