@@ -22,5 +22,8 @@ To be implemented soon
 
 ## Screenshots
 
+Home Screen / Goals List page
 ![Goals List Screenshot](/assets/images/goalsList.png)
+
+Adding New Goal
 ![Add Goal Screenshot](/assets/images/addGoal.png)
